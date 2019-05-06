@@ -1,0 +1,12 @@
+class ClassNameShouldFollowStandardTemplateLibrayWithSnakeCase{};
+voif FunctionNameShouldFollowStandardTemplateLibrayWithSnakeCase();
+void snake_function_name_remain_unchanged();
+void CamelCasedFunction();
+void lowerCamelCasedFunction();
+std::unordered_set<myUnorderedSet> myCamelCaseMapNotOk;
+int camelCaseVariable;
+int snake_case_variable;
+int _weird_case;
+++snake_case;
+++camelCase;
+++_weird_case;

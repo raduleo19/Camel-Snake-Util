@@ -1,0 +1,12 @@
+class class_name_should_follow_standard_template_libray_with_snake_case{};
+voif function_name_should_follow_standard_template_libray_with_snake_case();
+void snake_function_name_remain_unchanged();
+void camel_cased_function();
+void lower_camel_cased_function();
+std::unordered_set<my_unordered_set> my_camel_case_map_not_ok;
+int camel_case_variable;
+int snake_case_variable;
+int weird_case;
+++snake_case;
+++camel_case;
+++weird_case;
