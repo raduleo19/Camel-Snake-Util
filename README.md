@@ -1,4 +1,4 @@
-# CamelCase - snake_case
+# camelSnakeUtil
 Simple linux tools to convert between vanilla lower camelCase and snake_case.
 
 
